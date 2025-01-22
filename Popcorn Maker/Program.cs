@@ -18,10 +18,6 @@ namespace Popcorn_Maker
 
                 switch (menu.Response)
                 {
-                    case "S":
-
-                        break;
-
                     case "P":
                         CornMaker cornMaker = new CornMaker();  
                         cornMaker.CheckCornStorage();

@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Popcorn Maker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B94CB584-B9C2-442D-99FB-5E420AD35749}|Popcorn Maker\\Popcorn Maker.csproj|c:\\users\\lenovo\\source\\repos\\popcorn maker\\popcorn maker\\cornmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94CB584-B9C2-442D-99FB-5E420AD35749}|Popcorn Maker\\Popcorn Maker.csproj|solutionrelative:popcorn maker\\cornmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94CB584-B9C2-442D-99FB-5E420AD35749}|Popcorn Maker\\Popcorn Maker.csproj|c:\\users\\lenovo\\source\\repos\\popcorn maker\\popcorn maker\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94CB584-B9C2-442D-99FB-5E420AD35749}|Popcorn Maker\\Popcorn Maker.csproj|solutionrelative:popcorn maker\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B94CB584-B9C2-442D-99FB-5E420AD35749}|Popcorn Maker\\Popcorn Maker.csproj|c:\\users\\lenovo\\source\\repos\\popcorn maker\\popcorn maker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B94CB584-B9C2-442D-99FB-5E420AD35749}|Popcorn Maker\\Popcorn Maker.csproj|solutionrelative:popcorn maker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +22,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Popcorn Maker\\Popcorn Maker\\Menu.cs",
-              "RelativeDocumentMoniker": "Popcorn Maker\\Menu.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Popcorn Maker\\Popcorn Maker\\Menu.cs",
-              "RelativeToolTip": "Popcorn Maker\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:21:53.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CornMaker.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Popcorn Maker\\Popcorn Maker\\CornMaker.cs",
-              "RelativeDocumentMoniker": "Popcorn Maker\\CornMaker.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Popcorn Maker\\Popcorn Maker\\CornMaker.cs*",
-              "RelativeToolTip": "Popcorn Maker\\CornMaker.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T21:20:24.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Popcorn Maker\\Popcorn Maker\\Program.cs",
               "RelativeDocumentMoniker": "Popcorn Maker\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Popcorn Maker\\Popcorn Maker\\Program.cs",
-              "RelativeToolTip": "Popcorn Maker\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAyAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Popcorn Maker\\Popcorn Maker\\Program.cs*",
+              "RelativeToolTip": "Popcorn Maker\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T14:00:04.723Z",
               "EditorCaption": ""
