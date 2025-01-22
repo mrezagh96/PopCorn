@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Popcorn Maker\Popcorn Maker\bin\Debug\Popcorn Maker.exe.config
+C:\Users\Lenovo\source\repos\Popcorn Maker\Popcorn Maker\bin\Debug\Popcorn Maker.exe
+C:\Users\Lenovo\source\repos\Popcorn Maker\Popcorn Maker\bin\Debug\Popcorn Maker.pdb
+C:\Users\Lenovo\source\repos\Popcorn Maker\Popcorn Maker\obj\Debug\Popcorn Maker.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Popcorn Maker\Popcorn Maker\obj\Debug\Popcorn Maker.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Popcorn Maker\Popcorn Maker\obj\Debug\Popcorn Maker.exe
+C:\Users\Lenovo\source\repos\Popcorn Maker\Popcorn Maker\obj\Debug\Popcorn Maker.pdb
